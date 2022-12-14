@@ -5,6 +5,6 @@ Website for YS-314
 ### [GRMHD](https://ys-314.github.io/GWP)<br />
 
 <br />  
-### [Schrödinger](https://ys-314.github.io/QM)<br />  
+### [Schrödinger](https://ys-314.github.io/QM)<br />
 Quantum mechanics
 <br />  
