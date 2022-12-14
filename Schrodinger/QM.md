@@ -4,4 +4,4 @@ title: "Schrödinger"
 permalink: /QM
 ---
 
-#Schrödinger's equation simulations
+# Schrödinger's equation simulations
