@@ -1,5 +1,5 @@
 ---
 layout: page
 title: "GWPhys"
-permalink: /GWP
+permalink: //GWP
 ---
