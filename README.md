@@ -8,3 +8,5 @@ General relativity simulations
 ### [Schrödinger](https://ys-314.github.io/QM)<br />
 Quantum mechanics
 <br />  
+### [Numeric](https://ys-314.github.io/Nm)<br />
+Numerical methods
